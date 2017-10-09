@@ -1,6 +1,5 @@
 markdown: kramdown
 
-baseurl: /jekyll-blog
 
 paginate: 5
 
